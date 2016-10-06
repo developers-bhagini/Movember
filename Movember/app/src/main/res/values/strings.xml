@@ -5,6 +5,7 @@
     <string name="select_from_gallery_text">Select from gallery</string>
     <string name="skip_text">Skip</string>
     <string name="select_photo_dialog__title_text">Select Photo</string>
-    <string name="network_error_text">Please turn on internet!!!</string>
+    <string name="network_error_text">Check your internet connectivity</string>
     <string name="text_facebook_icon">SHARE IN FB</string>
+    <string name="dr_text">Dr.</string>
 </resources>
